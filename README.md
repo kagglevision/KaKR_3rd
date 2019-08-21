@@ -9,7 +9,7 @@ No.|model|Public Score|Private Score|
 3|No.2 + No.3 ensemble (9 model)|0.94787|0.94136|
 4|EffNetB5 + Catboost|0.91582|0.90785|
 5|EffNetB5 + ABN|0.92395|0.91130|
-6|EffNetB4, B5 (19 model)|0.94787|**0.94161** |  
+6|EffNetB4, B5, B6 (19 model)|0.94787|**0.94161** |  
 
 #
 -----
