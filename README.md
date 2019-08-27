@@ -6,10 +6,12 @@ No.|model|Public Score|Private Score|
 ----|----|----|----|
 1|Xception ensemble (3 model)|0.90291|0.89948|
 2|EffNetB4 ensemble (6 model)|0.94691|0.93914|
-3|No.2 + No.3 ensemble (9 model)|0.94787|0.94136|
-4|EffNetB5 + Catboost|0.91582|0.90785|
-5|EffNetB5 + ABN|0.92395|0.91130|
-6|EffNetB4, B5, B6 (19 model)|0.94787|**0.94161** |  
+3|ResNet101 ensemble (2 model)|0.91248|0.90588|
+4|Xception + ResNet101 ensemble (5 model)|0.93495|0.93717|
+5|No.1 + No.2 ensemble (9 model)|0.94787|0.94136|
+6|EffNetB5 + Catboost|0.91582|0.90785|
+7|EffNetB5 + ABN|0.92395|0.91130|
+8|EffNetB4, B5, B6 (19 model)|0.94787|**0.94161** |  
 
 #
 -----
